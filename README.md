@@ -1,5 +1,5 @@
 # Enc-1
-idea by Annorphede, code by ds.
+idea by Annorphede.
 ====================================
 
 REQUIREMENTS:
