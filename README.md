@@ -4,7 +4,7 @@ idea by Annorphede.
 
 REQUIREMENTS:
 1. python 3.11.0 or higher;
-2. external lib: pillow.
+2. external lib: pillow, cryptography.
 
 ====================================
 
@@ -19,8 +19,8 @@ Features:
 
 How to run? :
   0. create the following folders in the main folder: /ans ; /enc_wrapped ; /keys ; /unwraps
-  1. install 「pillow」: pip install pillow
-     (for great mac users: pip3 install pillow)
+  1. install 「pillow, cryptography」: pip install pillow cryptography
+     (for great mac users: pip3 install pillow cryptography)
      pillow deals with the photos
   2. go to the directory where you downloaded these sucking codes:
      4Windows: ~ sorry, idk :-O ~
