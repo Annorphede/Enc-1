@@ -18,6 +18,7 @@ Features:
 ====================================
 
 How to run? :
+  0. create the following folders in the main folder: /ans ; /enc_wrapped ; /keys ; /unwraps
   1. install 「pillow」: pip install pillow
      (for great mac users: pip3 install pillow)
      pillow deals with the photos
@@ -32,5 +33,5 @@ How to run? :
 Notice:
 1. all the console outputs are written in chinese, and if you want to read it more smoothly, you can learn chinese or modify the source code by yourself.
 2. never use this for real encrypting, because, MOST POSSIBLY YOU CAN'T FIGURE OUT A WAY TO SAFELY TRANSMIT YOUR CIPHER, which can be deadly.
-3. BUT::: IF, IF, (i wish that) YOU REALLY FOUND A WAY TO SAFELY EXCHANGE CIPHERS WITH THE RECEIVER, PLZ TELL ME! I'll be grateful for your help.
+3. run env.py to wrap the file as a .enc file, using cipher photo or a password.
 4. ENJOY :)
